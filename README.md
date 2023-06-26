@@ -45,3 +45,13 @@ Once the JAR file is built, you can run it using
 - Find Add-ons at [vaadin.com/directory](https://vaadin.com/directory).
 - Ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/vaadin) or join our [Discord channel](https://discord.gg/MYFq5RTbBn).
 - Report issues, create pull requests in [GitHub](https://github.com/vaadin/platform).
+
+- Screenshots of application:
+- ![Ekran Görüntüsü (1236)](https://github.com/eceayturk/VaadinWebApplication/assets/75135337/a0edfb6a-6904-4c66-a11b-7c2c77230734)
+
+Offline Page
+- ![image](https://github.com/eceayturk/VaadinWebApplication/assets/75135337/d315c8ed-f8f4-44c3-a4b5-5c24b0783ac5)
+
+![image](https://github.com/eceayturk/VaadinWebApplication/assets/75135337/96e7d694-a817-4d2a-91d4-3b55697ab698)
+
+
