@@ -1,0 +1,11 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Users\\ebrue\\desktop\\flow-crm-tutorial-14-initial\\flow-crm-tutorial-14-initial",
+  "generatedFolder": "C:\\Users\\ebrue\\desktop\\flow-crm-tutorial-14-initial\\flow-crm-tutorial-14-initial\\target\\frontend",
+  "frontendFolder": "C:\\Users\\ebrue\\desktop\\flow-crm-tutorial-14-initial\\flow-crm-tutorial-14-initial\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "node.version": "v14.15.4",
+  "node.download.root": "https://nodejs.org/dist/"
+}
